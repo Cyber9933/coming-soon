@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://cyber9933.github.io/coming-soon
+Site published at: https://github.com/Cyber9933/coming-soon
 
 Design: ![alt text](./project-design.png)
 
